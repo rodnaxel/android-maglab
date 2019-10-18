@@ -1,0 +1,22 @@
+# Blacklist
+/bin
+/.buildozer
+/build
+/.idea
+/.ropeproject
+/.pytest_cache
+/.vscode
+/__pycache__
+
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+*.bak
+*.bat
+*.dat
+*.ini
+*.json
+*.pyc
+*.txt
+

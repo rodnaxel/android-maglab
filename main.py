@@ -30,6 +30,8 @@ else:
     from serial import Serial
 
 
+__version__ = "0.0.1"
+
 kv = '''
 
 #:set green_color (27/255, 94/255, 32/255, 1)
